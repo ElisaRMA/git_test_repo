@@ -1,3 +1,7 @@
 hello world
 
 This is a test to commit different parts of the file on different commits.
+
+As good practice, always do small commits, related to one subject. 
+
+However, we sometimes edit more then one thing on a file, related to more than one subject, so we need to split those modifications into different commits.
